@@ -30,11 +30,10 @@ This repository contains multiple prototypes of CAD designs and PCB designs to m
 # Technical Specifications & Features
 The project explores multiple LED configurations to suit different user needs:
 
-**LED Light Circuit CAD Model Top View**
-<img width="1151" height="716" alt="Fridge Circuit Top View" src="https://github.com/user-attachments/assets/a7511b5e-0355-4171-8f59-ca1a66952955" />
-**LED Light Circuit CAD Model Bottom View**
-<img width="1167" height="731" alt="Fridge Circuit Bottom View" src="https://github.com/user-attachments/assets/72551615-aaa5-4cc6-ad02-c5b69330ee7f" />
-    -Operation: Designed for life like fridge operation.
+<img width="1151" height="716" alt="Fridge Circuit Top View" src="https://github.com/user-attachments/assets/a7511b5e-0355-4171-8f59-ca1a66952955" />**LED Light Circuit CAD Model Top View**
+<img width="1167" height="731" alt="Fridge Circuit Bottom View" src="https://github.com/user-attachments/assets/72551615-aaa5-4cc6-ad02-c5b69330ee7f" />**LED Light Circuit CAD Model Bottom View**
+
+Operation: Designed for life like fridge operation.
 
 # Engineering Workflow
   Mechanical Design (MCAD): Custom 3D-modeled bodies created in Fusion 360, designed with internal mounting bosses and clearances specifically for the custom PCBs.
